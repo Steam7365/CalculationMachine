@@ -1,0 +1,17 @@
+C:\Users\Voe\Desktop\calculation\calculation\bin\Release\net6.0-windows\calculation.exe
+C:\Users\Voe\Desktop\calculation\calculation\bin\Release\net6.0-windows\calculation.deps.json
+C:\Users\Voe\Desktop\calculation\calculation\bin\Release\net6.0-windows\calculation.runtimeconfig.json
+C:\Users\Voe\Desktop\calculation\calculation\bin\Release\net6.0-windows\calculation.dll
+C:\Users\Voe\Desktop\calculation\calculation\bin\Release\net6.0-windows\calculation.pdb
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.csproj.AssemblyReference.cache
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.Form1.resources
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.csproj.GenerateResource.cache
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.AssemblyInfoInputs.cache
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.AssemblyInfo.cs
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.csproj.CoreCompileInputs.cache
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.dll
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\refint\calculation.dll
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.pdb
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\calculation.genruntimeconfig.cache
+C:\Users\Voe\Desktop\calculation\calculation\obj\Release\net6.0-windows\ref\calculation.dll
